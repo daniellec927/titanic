@@ -7,7 +7,7 @@
 
 #include "PassengerDatabase.h"
 
-namespace cs32 {
+namespace core {
 
 PassengerDatabase::PassengerDatabase(){
     passengers.clear();
