@@ -2,7 +2,6 @@
 // Settings.h
 // Titanic
 //
-// Created by Howard Stahl on 7/1/23.
 //
 
 #ifndef SETTINGS_H
