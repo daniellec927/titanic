@@ -1,32 +1,25 @@
 //
-//  Settings.h
-//  Titanic
+// Settings.h
+// Titanic
 //
-//  Created by Howard Stahl on 7/1/23.
+// Created by Howard Stahl on 7/1/23.
 //
-//
-
-
-
-
-//  No workaround found for space in the file path or in the filename
 
 #ifndef SETTINGS_H
 #define SETTINGS_H
 
+// Data-file locations, relative to the program's working directory.
+// Place the CSV data files in a ./Data/ folder next to the executable.
+#define PATH_TO_SAMPLE_DATA_MAC "Data/sample.csv"
+#define PATH_TO_MOVIE_DATA_MAC "Data/movie.csv"
+#define PATH_TO_BIGGER_DATA_MAC "Data/titanic.csv"
 
-#define PATH_TO_SAMPLE_DATA_MAC "/Users/daniellechoi/Desktop/CS32/project4/Titanic SKELETON/Data/sample.csv"
+#define PATH_TO_SAMPLE_DATA_G32 "Data/sample.csv"
+#define PATH_TO_MOVIE_DATA_G32 "Data/movie.csv"
+#define PATH_TO_BIGGER_DATA_G32 "Data/titanic.csv"
 
-#define PATH_TO_MOVIE_DATA_MAC "/Users/daniellechoi/Desktop/CS32/project4/Titanic SKELETON/Data/movie.csv"
-
-#define PATH_TO_BIGGER_DATA_MAC "/Users/daniellechoi/Desktop/CS32/project4/Titanic SKELETON/Data/titanic.csv"
-
-#define PATH_TO_SAMPLE_DATA_G32 "/w/home.28/home/daniellec927/Documents/project4/sample.csv"
-#define PATH_TO_MOVIE_DATA_G32 "/w/home.28/home/daniellec927/Documents/project4/movie.csv"
-#define PATH_TO_BIGGER_DATA_G32 "/w/home.28/home/daniellec927/Documents/project4/titanic.csv"
-
-#define PATH_TO_SAMPLE_DATA_WINDOWS "C:/Windows/Temp/Titanic/Data/sample.csv"
-#define PATH_TO_SAMPLE_MOVIE_WINDOWS "C:/Windows/Temp/Titanic/Data/movie.csv"
-#define PATH_TO_BIGGER_DATA_WINDOWS "C:/Windows/Temp/Titanic/Data/titanic.csv"
+#define PATH_TO_SAMPLE_DATA_WINDOWS "Data/sample.csv"
+#define PATH_TO_SAMPLE_MOVIE_WINDOWS "Data/movie.csv"
+#define PATH_TO_BIGGER_DATA_WINDOWS "Data/titanic.csv"
 
 #endif
