@@ -69,7 +69,7 @@ int sample( ) {
         vector< Passenger * > byclass = database.getPassengers_byClass(Class::FIRST, true, -10.00);
         vector< Passenger * > byembark = database.getPassengers_byEmbarcation(Embarcation::SOUTHHAMPTON, true, 0.00);
         
-        Passenger * p = database.getPassenger_byName( "Howard" );
+        Passenger * p = database.getPassenger_byName( "Alex" );
         if (p)
             p->setEmbarcation( "S" );
        
