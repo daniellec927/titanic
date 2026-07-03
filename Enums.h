@@ -2,7 +2,6 @@
 //  Enums.h
 //  Titanic
 //
-//  Created by Howard Stahl on 9/6/23.
 //
 
 #ifndef Enums_h
