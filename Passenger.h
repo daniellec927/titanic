@@ -11,7 +11,7 @@
 #include "Enums.h"
 #include <string>
 
-namespace cs32 
+namespace core 
 {
 
 class Passenger
