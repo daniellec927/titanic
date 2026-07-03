@@ -10,7 +10,7 @@
 #include <map>
 #include <string>
 
-namespace cs32
+namespace core
 {
 
 class DataCollectorCallback 
