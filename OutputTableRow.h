@@ -11,7 +11,7 @@
 #include <iostream>
 #include <string>
 
-namespace cs32 {
+namespace core {
 
 class OutputTableRow
 {
