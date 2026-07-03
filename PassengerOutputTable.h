@@ -15,7 +15,7 @@
 #include "Enums.h"
 #include "OutputTableRow.h"
 
-namespace cs32 {
+namespace core {
 
 class PassengerOutputTable 
 {
