@@ -7,7 +7,7 @@
 
 #include "PassengerOutputTable.h"
 
-namespace cs32 {
+namespace core {
 
 PassengerOutputTable::PassengerOutputTable( std::vector<Passenger*> passengers ){
     mField = Field::NOVALUE;
