@@ -11,7 +11,7 @@
 #include <string>
 #include "DataCollectorCallback.h"
 
-namespace cs32
+namespace core
 {
 
 /*
