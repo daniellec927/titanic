@@ -11,7 +11,7 @@
 #include <sstream>
 #include <iostream>
 
-namespace cs32
+namespace core
 {
 
 CSVFile::CSVFile( DataCollectorCallback * callback, bool hasHeaders, bool combineQuotedFields ) : mCollector( callback ), mHasHeaders( hasHeaders ), mCombineQuotedFields( combineQuotedFields ), debug( false )
