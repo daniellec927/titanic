@@ -17,7 +17,7 @@
 /*
 int example()
 {
-    using namespace cs32;
+    using namespace core;
     
     // work with the ExampleDataCollector
     ExampleDataCollector * collector = new ExampleDataCollector();
@@ -33,7 +33,7 @@ int sample( ) {
      */
     
     using namespace std;
-    using namespace cs32;
+    using namespace core;
     
     
      
