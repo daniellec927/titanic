@@ -2,7 +2,6 @@
 //  CSVFile.cpp
 //  Titanic
 //
-//  Created by Howard Stahl on 7/1/23.
 //
 
 #include "CSVFile.h"
