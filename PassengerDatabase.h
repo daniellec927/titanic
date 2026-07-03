@@ -17,7 +17,7 @@
 #include "DataCollectorCallback.h"
 #include "CSVFile.h"
 
-namespace cs32 {
+namespace core {
 
 class PassengerDatabase : public DataCollectorCallback 
 {
