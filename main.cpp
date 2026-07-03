@@ -2,7 +2,6 @@
 //  main.cpp
 //  Titanic
 //
-//  Created by Howard Stahl on 7/1/23.
 //
 
 
@@ -11,7 +10,6 @@
 #include <iostream>
 #include <cassert>
 
-// once you get things working...
 #include "Passenger.h"
 #include "PassengerDatabase.h"
 #include "OutputTableRow.h"
@@ -32,7 +30,6 @@ int example()
 
 int sample( ) {
     /*
-     CS 32 Students should uncomment what they see below once they think they have everything working...
      */
     
     using namespace std;
