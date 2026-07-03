@@ -2,7 +2,6 @@
 //  DataCollectorCallback.hpp
 //  Titanic
 //
-//  Created by Howard Stahl on 7/1/23.
 //
 
 #ifndef DATACOLLECTORCALLBACK_H
