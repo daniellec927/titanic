@@ -7,7 +7,7 @@
 
 #include "Passenger.h"
 
-namespace cs32
+namespace core
 {
 
 Passenger::Passenger(){
