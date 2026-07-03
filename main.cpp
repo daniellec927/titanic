@@ -8,7 +8,6 @@
 
 #include "Settings.h"
 #include "CSVFile.h"
-#include "ExampleDataCollector.h"
 #include <iostream>
 #include <cassert>
 
