@@ -7,7 +7,7 @@
 
 #include "OutputTableRow.h"
 
-namespace cs32 {
+namespace core {
 
 OutputTableRow::OutputTableRow(){
     mDescription = "";
