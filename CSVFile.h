@@ -2,7 +2,6 @@
 //  CSVFile.hpp
 //  Titanic
 //
-//  Created by Howard Stahl on 7/1/23.
 //
 
 #ifndef CSVFILE_H
@@ -16,7 +15,6 @@ namespace cs32
 {
 
 /*
- A class provided to CS32 students to read a CSV file
  If hasHeaders, the first line of the file must be a line of field headers
  If combineQuotedFields, commas when found inside quotes are not treated as separators
  If no header is supplied, the data fields will be named field0, field1, field2, ...
